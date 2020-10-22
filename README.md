@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a self taught developer who is still in high school. 
 
-I love automation (only for boring work), APIs, bots and physical simulations. (*^_^*)
+I love automation (only for boring work), APIs, bots and physical simulations. (^_^)
 
 I primarily code in Python and Julia, but I'm learning a bit of HTML/CSS and Browser side JavaScript for small projects and I have worked with Unity C#, Visual Basic, and some Android Development before.
 
@@ -11,18 +11,10 @@ As you can tell, I really like newlines, 4 spaced indentation, and Unicode. ヾ(
 
 I prefer the pronouns: "He, Him, His, His, Himself", But some also call me "The great lord and saviour". (⊙_⊙;)
 
+- 🔭 I’m currently working on learning web development and [BruhOS](https://github.com/soumitradev/BruhOS)
+- 🌱 I’m currently learning web development with Vue, Svelte, and Node.js
+- 👯 I’m looking to collaborate on BruhOS (pls halp how to into paging)
+- 📫 How to reach me: YES FINALLY A TIME TO PLUG MY STUFF PLS CLICK [HERE](https://soumitradev.tk/about) TO GO TO MY WEBSITE YOU CAN FIND MORE INFO ABOUT ME THERE
+- ⚡ Fun fact: My commits and code usually contain unfunny jokes (this repo included)
+
 I'm sorry, this is genuinely the most cringy repo I have on my GitHub.
-<!--
-**soumitradev/soumitradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
