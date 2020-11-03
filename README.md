@@ -9,7 +9,7 @@ I'd love to learn stuff closer to the metal like C/C++ and a few other languages
 
 As you can tell, I really like newlines, 4 spaced indentation, and Unicode. ヾ(⌐■_■)ノ♪
 
-I prefer the pronouns: "He, Him, His, His, Himself", But some also call me "The great lord and saviour". (⊙_⊙;)
+I prefer the pronouns: "He, Him, His, His, Himself".
 
 - 🔭 I’m currently working on learning web development and [BruhOS](https://github.com/soumitradev/BruhOS)
 - 🌱 I’m currently learning web development with Vue, Svelte, and Node.js
