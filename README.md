@@ -1,4 +1,5 @@
-### Hi there 👋
+the j
+<!-- ### Hi there 👋
 I'm a self taught developer who is still in high school. 
 
 I love automation (only for boring work), APIs, bots and physical simulations. (^_^)
@@ -17,4 +18,4 @@ I prefer the pronouns: "He, Him, His, His, Himself".
 - 📫 How to reach me: YES FINALLY A TIME TO PLUG MY STUFF PLS CLICK [HERE](https://soumitradev.tk/about) TO GO TO MY WEBSITE YOU CAN FIND MORE INFO ABOUT ME THERE
 - ⚡ Fun fact: My commits and code usually contain unfunny jokes (this repo included)
 
-I'm sorry, this is genuinely the most cringy repo I have on my GitHub.
+I'm sorry, this is genuinely the most cringy repo I have on my GitHub. -->
