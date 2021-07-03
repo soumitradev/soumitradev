@@ -1,4 +1,4 @@
-the j
+![](https://media1.tenor.com/images/32e9a0495e06205e9da879cdd0907109/tenor.gif)
 <!-- ### Hi there 👋
 I'm a self taught developer who is still in high school. 
 
